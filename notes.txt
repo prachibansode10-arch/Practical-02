@@ -1,0 +1,6 @@
+Experiment 02
+Git installation and configuration
+Repository creation
+Branching and merging
+Version history
+Merge conflict resolution
